@@ -9,13 +9,16 @@ Each sport comes with its own world of training tips, skill levels, movement gui
 <h3>Work Plan:-</h3>
 
 1-Research & Analysis
- ### User Research
+- User Research
 - Competitor analysis
 - 7-key features analysis
 - SWOT Analysis
 - User Persona
 - Card Sorting
-- Sitemap
+- Information Architecture
 - User Flow
+2-Visual Identity
 
+- Color palette & typography
+- Style guide
 
