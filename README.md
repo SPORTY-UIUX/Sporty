@@ -8,7 +8,7 @@ Each sport comes with its own world of training tips, skill levels, movement gui
 
 <h3>Work Plan:-</h3>
 
-1-Research & Analysis
+**1-Research & Analysis**
 - User Research
 - Competitor analysis
 - 7-key features analysis
@@ -18,7 +18,7 @@ Each sport comes with its own world of training tips, skill levels, movement gui
 - Information Architecture
 - User Flow
   
-2-Visual Identity
+**2-Visual Identity**
 
 - Color palette & typography
 - Style guide
