@@ -1,7 +1,6 @@
 <h1 align="center">🎾 Sporty*
-  ______________________________________________________________________________
-<p align="center">  
-an adaptive sports app that tailors the entire experience to each user’s interests.
+  _________________________________________________________________________
+ <p align="center"> an adaptive sports app that tailors the entire experience to each user’s interests.
 Through a simple quiz, it builds a customized profile that reflects the user’s chosen sport with unique content and visuals.
 
 Project Idea
