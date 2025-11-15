@@ -71,7 +71,7 @@ Sohila Mohamed
 
 Dr. Eman Abdellatif
 
-<h3>Project Files</h3>
+<h3>Project Files:-</h3>
 
 You can find all project materials here:
 
@@ -84,5 +84,5 @@ You can find all project materials here:
 This project is shared for educational and non-commercial purposes. You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
 
 ----------
-<h1 align="center"> Thanks
-  Sporty Team</h1>
+<h1 align="center"> Thanks</h1>
+<h1 align="center">Sporty Team</h1>
