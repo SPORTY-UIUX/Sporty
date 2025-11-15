@@ -74,8 +74,12 @@ Dr. Eman Abdellatif
 <h3>Project Files</h3>
 
 You can find all project materials here:
-UX / Figjam:[Click here](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
-UI / Figma:[Click here](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
 
+[UX / Figjam](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
 
+[UI / Figma](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
+
+<h3>License:-</h3>
+
+This project is shared for educational and non-commercial purposes. You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
 
