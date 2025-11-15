@@ -75,7 +75,7 @@ Dr. Eman Abdellatif
 
 You can find all project materials here:
 
-[UX Figjam File](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
+[UX / Figjam File](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
 
 [UI / Figma File](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
 
