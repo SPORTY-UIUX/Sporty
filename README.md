@@ -83,4 +83,6 @@ You can find all project materials here:
 
 This project is shared for educational and non-commercial purposes. You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
 
-<h1 align="center"> Thanks for watching - Sporty Team</h1>
+----------
+<h1 align="center"> Thanks
+  Sporty Team</h1>
