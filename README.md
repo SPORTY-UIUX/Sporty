@@ -79,10 +79,12 @@ You can find all project materials here:
 
 [UI / Figma File](https://www.figma.com/board/zzo6cIRMTIm77YlbZsiHUO/Grad-UX-Analysis?node-id=270-2624&t=MM6WLO5Qgna0NB00-1)
 
+[Case Study File]
+
 <h3>License:-</h3>
 
 This project is shared for educational and non-commercial purposes. You are free to view and reference the content, but redistribution or commercial use requires permission from the creators.
 
 ----------
 <h1 align="center"> Thanks</h1>
-<h1 align="center">Sporty Team</h1>
+<h3 align="center">Sporty Team</h3>
