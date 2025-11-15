@@ -1,1 +1,2 @@
-YSS (Your Sport Support) is an inclusive sports platform that empowers everyone — across all ages, genders, and abilities. From casual play to professional activities, it brings together services, resources, and community support to make sports more accessible, engaging, and enjoyable.
+Sporty is a dynamic sports service app that transforms how users connect with their favorite activities.
+After a quick quiz, Sporty builds a personalized profile that adapts its colors, content, and experience to the user’s chosen sport — from swimming to gymnastics and beyond.
