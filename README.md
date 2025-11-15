@@ -17,6 +17,7 @@ Each sport comes with its own world of training tips, skill levels, movement gui
 - Card Sorting
 - Information Architecture
 - User Flow
+  
 2-Visual Identity
 
 - Color palette & typography
