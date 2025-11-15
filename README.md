@@ -1,4 +1,4 @@
-<h1>Big text</h1>🎾 Sporty*
+<h1></h1>🎾 Sporty*
 <p>Normal text</p> an adaptive sports app that tailors the entire experience to each user’s interests.
 Through a simple quiz, it builds a customized profile that reflects the user’s chosen sport with unique content and visuals.
 
