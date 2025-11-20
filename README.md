@@ -79,7 +79,7 @@ You can find all project materials here:
 
 [UI / Figma File](https://www.figma.com/design/IVpU9rEeScHevngwoyuIxu/Grad-UI-Design?node-id=6-2&t=X5S3tKiGJOFfmPD5-1)
 
-[Case Study File]([https://drive.google.com/drive/folders/1f050z6nBRFdWqw3n0kLKenBoa8wuRfxc](https://drive.google.com/drive/folders/12EZjzdO-S08H1EhVdmYaiDzvYO8ToYWc?usp=drive_link))
+[Case Study File](https://drive.google.com/drive/folders/12EZjzdO-S08H1EhVdmYaiDzvYO8ToYWc?usp=drive_link)
 
 <h3>License:-</h3>
 
