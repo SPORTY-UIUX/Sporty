@@ -41,7 +41,7 @@ Mobile app Design
 
 <h3>Team Members:-</h3>
 
-Aliaa Shafik (TL)
+Aliaa Shafik
 - Primary: Research, Competitor Analysis, Survey,  Color palette, Typography, Information Architecture
 - Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
   
